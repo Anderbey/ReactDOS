@@ -202,7 +202,7 @@ const ReactDOS = () => {
       await addLine('  ╠════════════════════════════════════════════╣', 50);
       await addLine('  ║                                            ║', 50);
       await addLine('  ║  Repository:                               ║', 50);
-      await addLine('  ║  https://github.com/yourusername/reactdos  ║', 50);
+      await addLine('  ║  https://github.com/Anderbey/ReactDOS      ║', 50);
       await addLine('  ║                                            ║', 50);
       await addLine('  ║     Star the project if you like it!       ║', 50);
       await addLine('  ║                                            ║', 50);
