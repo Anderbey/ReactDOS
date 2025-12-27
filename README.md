@@ -21,7 +21,7 @@ A retro DOS simulator built with React and TypeScript, featuring authentic CRT m
 git clone https://github.com/Anderbey/ReactDOS.git
 
 # Navigate to project directory
-cd reactdos
+cd ReactDOS
 
 # Install dependencies
 npm install
