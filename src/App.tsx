@@ -24,7 +24,7 @@ const ReactDOS = () => {
       await addLine('HIMEM is testing extended memory...done.', 200);
       await addLine('', 100);
       await addLine('ReactDOS Version 1.0', 200);
-      await addLine('MIT License (C) 2025 ReactDOS Project', 200);
+      await addLine('MIT License (C) 2026 ReactDOS Project', 200);
       await addLine('', 300);
       await addLine('═══════════════════════════════════════════════', 100);
       await addLine('         Welcome to ReactDOS v1.0', 100);
@@ -138,7 +138,7 @@ const ReactDOS = () => {
       await addLine('║                                               ║', 50);
       await addLine('║  Author: Anderbey                             ║', 50);
       await addLine('║  Technology: React + TypeScript               ║', 50);
-      await addLine('║  Year: 2025                                   ║', 50);
+      await addLine('║  Year: 2026                                   ║', 50);
       await addLine('║                                               ║', 50);
       await addLine('║  This is a visual simulation only.            ║', 50);
       await addLine('║  No actual file operations are performed.     ║', 50);
